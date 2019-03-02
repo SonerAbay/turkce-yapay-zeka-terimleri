@@ -214,6 +214,8 @@ Gradyan İnişi: Yerel minimum bir nokta bulmak için, geçerli noktadaki işlev
 - [ ] TÜBA
 - [ ] TDK
 
+ÖNERİ: 'örtülü kavram'
+
 ## lasso regression
 - [ ] TÜBA
 - [ ] TDK
